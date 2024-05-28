@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Сергей Никитин](https://up.htmlacademy.ru/htmlcss/40/user/2514051).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Варнавский](https://htmlacademy.ru/profile/anton_varnauski).
 
 ---
 
